@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "AWDW2014Multidimensional-EE", "AWDW2014Multidimensional-EE\AWDW2014Multidimensional-EE.dwproj", "{71BA4791-9059-4980-AB04-3FF0E8B88C80}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71BA4791-9059-4980-AB04-3FF0E8B88C80}.Development|Default.ActiveCfg = Development
+		{71BA4791-9059-4980-AB04-3FF0E8B88C80}.Development|Default.Build.0 = Development
+		{71BA4791-9059-4980-AB04-3FF0E8B88C80}.Development|Default.Deploy.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D42E68B6-F026-4863-95CA-026EFDC81219}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://kevjwills.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = AWDW2014Multidimensional-EE\\AWDW2014Multidimensional-EE.dwproj
+		SccProjectName1 = AWDW2014Multidimensional-EE
+		SccLocalPath1 = AWDW2014Multidimensional-EE
+	EndGlobalSection
+EndGlobal

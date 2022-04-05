@@ -1,0 +1,4 @@
+﻿CREATE PARTITION FUNCTION [FunctionInteger](INT)
+    AS RANGE RIGHT
+    FOR VALUES (0);
+

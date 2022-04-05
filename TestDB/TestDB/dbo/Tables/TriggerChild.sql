@@ -1,0 +1,7 @@
+﻿CREATE TABLE [dbo].[TriggerChild]
+(
+	[Id] INT IDENTITY(1,1) NOT NULL
+	,ParentID INT NOT NULL
+	,DateAdded DATETIME NOT NULL
+	,CONSTRAINT PK_TriggerChild PRIMARY KEY CLUSTERED (Id ASC)
+)

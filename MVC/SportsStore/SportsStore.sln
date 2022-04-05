@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SportsStore", "SportsStore\SportsStore.csproj", "{8BDFF9A4-22E6-404D-BBF4-30AD008FC4D3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SportsStore.Tests", "SportsStore.Tests\SportsStore.Tests.csproj", "{F168087A-DAC1-4112-9209-2995B2BF6F49}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8BDFF9A4-22E6-404D-BBF4-30AD008FC4D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BDFF9A4-22E6-404D-BBF4-30AD008FC4D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BDFF9A4-22E6-404D-BBF4-30AD008FC4D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BDFF9A4-22E6-404D-BBF4-30AD008FC4D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F168087A-DAC1-4112-9209-2995B2BF6F49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F168087A-DAC1-4112-9209-2995B2BF6F49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F168087A-DAC1-4112-9209-2995B2BF6F49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F168087A-DAC1-4112-9209-2995B2BF6F49}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D058FB87-93A6-4177-BDC5-E10512968286}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://kevjwills.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = SportsStore\\SportsStore.csproj
+		SccProjectName1 = SportsStore
+		SccLocalPath1 = SportsStore
+		SccProjectUniqueName2 = SportsStore.Tests\\SportsStore.Tests.csproj
+		SccProjectName2 = SportsStore.Tests
+		SccLocalPath2 = SportsStore.Tests
+	EndGlobalSection
+EndGlobal

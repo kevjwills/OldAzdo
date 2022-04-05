@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Razor", "Razor\Razor.csproj", "{BB87AA8D-BD6B-47DE-BB7E-D2863ACD646A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB87AA8D-BD6B-47DE-BB7E-D2863ACD646A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB87AA8D-BD6B-47DE-BB7E-D2863ACD646A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB87AA8D-BD6B-47DE-BB7E-D2863ACD646A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB87AA8D-BD6B-47DE-BB7E-D2863ACD646A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {33A662C1-6424-46C6-BC0C-CA10FC282586}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://kevjwills.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Razor\\Razor.csproj
+		SccProjectName1 = Razor
+		SccLocalPath1 = Razor
+	EndGlobalSection
+EndGlobal

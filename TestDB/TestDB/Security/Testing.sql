@@ -1,0 +1,2 @@
+﻿CREATE SCHEMA Testing
+AUTHORIZATION [dbo]

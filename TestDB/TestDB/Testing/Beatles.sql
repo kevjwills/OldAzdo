@@ -1,0 +1,5 @@
+﻿CREATE TABLE [Testing].[Beatles]
+(
+	[Id] INT NOT NULL IDENTITY(1,1) PRIMARY KEY
+	,BeatleName VARCHAR(6) NOT NULL
+)

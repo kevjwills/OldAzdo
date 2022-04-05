@@ -1,0 +1,17 @@
+﻿/****** Script for SelectTopNRows command from SSMS  ******/
+SELECT TOP (1) [CustomerTransactionID]
+      ,[CustomerID]
+      ,[TransactionTypeID]
+      ,[InvoiceID]
+      ,[PaymentMethodID]
+      ,[TransactionDate]
+      ,[AmountExcludingTax]
+      ,[TaxAmount]
+      ,[TransactionAmount]
+      ,[OutstandingBalance]
+      ,[FinalizationDate]
+      ,[IsFinalized]
+      ,[LastEditedBy]
+      ,[LastEditedWhen]
+  FROM [$(WideWorldImporters)].[Sales].[CustomerTransactions]
+  for json auto, without_array_wrapper

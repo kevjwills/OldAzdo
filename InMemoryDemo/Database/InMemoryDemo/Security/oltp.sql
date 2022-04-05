@@ -1,0 +1,3 @@
+﻿CREATE SCHEMA [oltp]
+    AUTHORIZATION [dbo];
+

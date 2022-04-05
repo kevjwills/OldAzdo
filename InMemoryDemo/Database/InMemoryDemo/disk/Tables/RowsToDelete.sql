@@ -1,0 +1,4 @@
+﻿CREATE TABLE [disk].[RowsToDelete]
+(
+	[Id] INT NOT NULL PRIMARY KEY NONCLUSTERED
+)

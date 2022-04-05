@@ -1,0 +1,7 @@
+﻿CREATE TABLE [dbo].[TriggerDeleted]
+(
+	[Id] INT NOT NULL
+	,ParentID INT NOT NULL
+	,DateAdded DATETIME NOT NULL
+	,CONSTRAINT PK_TriggerDeleted PRIMARY KEY CLUSTERED (Id ASC)
+)

@@ -1,0 +1,9 @@
+﻿CREATE TABLE [Testing].[Fact]
+(
+	[Id] INT IDENTITY(1,1) NOT NULL
+	,FK_DateId INT
+	,FK_Beatle INT
+);
+GO
+CREATE CLUSTERED COLUMNSTORE INDEX ix_FactTable
+ON Testing.Fact
